@@ -24,3 +24,8 @@ SAPUI5 is Javascript development so I'd like to use Javascript tools which ultim
 or/and
 
 
+`npm install json-proxy --save` - install locally and add the dependancy to your package.json file.
+
+=== configure
+
+=== run
