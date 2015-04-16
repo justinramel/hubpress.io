@@ -1,3 +1,2 @@
-= Test post
+= SAPUI5 Proxy setup
 
-Any good?
