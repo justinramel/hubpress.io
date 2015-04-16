@@ -3,7 +3,7 @@
 
 == Why?
 
-If your SAPUI5 app needs to communicate with a server you can't just open the html file directly in a browser as the ajax calls will fail due the (Same Origin Policy)[http://en.wikipedia.org/wiki/Same-origin_policy] enforced by browsers. 
+If your SAPUI5 app needs to communicate with a server you can't just open the html file directly in a browser as the ajax calls will fail due the http://en.wikipedia.org/wiki/Same-origin_policy[Same Origin Policy] enforced by browsers. 
 
 During development we can use a proxy server to get around this problem.
 
