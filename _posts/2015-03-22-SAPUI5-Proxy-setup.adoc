@@ -1,16 +1,15 @@
 = SAPUI5 Proxy setup
 
 
-== Why?
+=== why?
 
 If your SAPUI5 app needs to communicate with a server you can't just open the html file directly in a browser as the ajax calls will fail due the http://en.wikipedia.org/wiki/Same-origin_policy[Same Origin Policy] enforced by browsers. 
 
 During development we can use a proxy server to get around this problem.
 
-
 SAPUI5 is Javascript development so I'd like to use Javascript tools which ultimatly means nodejs & npm.
 
-=== json-proxy
+=== how?
 
 
 `json-proxy` is a simple proxy server that is easy to setup & configure.
